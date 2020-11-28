@@ -81,7 +81,7 @@ public class MyGrammaticLexer extends Lexer {
 	}
 
 	@Override
-	public String getGrammarFileName() { return "Mike/MyGrammatic.g4"; }
+	public String getGrammarFileName() { return "Mike/pr5/MyGrammatic.g4"; }
 
 	@Override
 	public String[] getRuleNames() { return ruleNames; }

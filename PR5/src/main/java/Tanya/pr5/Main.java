@@ -1,4 +1,4 @@
-package Tanya;
+package Tanya.pr5;
 
 import gen.*;
 import org.antlr.v4.runtime.CharStreams;
