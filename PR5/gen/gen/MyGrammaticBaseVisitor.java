@@ -1,4 +1,4 @@
-// Generated from /Users/mikekopotov/Documents/Avtomati/PR5/src/main/java/MyGrammatic.g4 by ANTLR 4.8
+package gen;// Generated from /Users/mikekopotov/Documents/Avtomati/PR5/src/main/java/MyGrammatic.g4 by ANTLR 4.8
 import org.antlr.v4.runtime.tree.AbstractParseTreeVisitor;
 
 /**

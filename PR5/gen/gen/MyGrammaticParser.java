@@ -1,11 +1,9 @@
-// Generated from /Users/mikekopotov/Documents/Avtomati/PR5/src/main/java/MyGrammatic.g4 by ANTLR 4.8
+package gen;// Generated from /Users/mikekopotov/Documents/Avtomati/PR5/src/main/java/MyGrammatic.g4 by ANTLR 4.8
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
-import org.antlr.v4.runtime.misc.*;
 import org.antlr.v4.runtime.tree.*;
 import java.util.List;
-import java.util.Iterator;
 import java.util.ArrayList;
 
 @SuppressWarnings({"all", "warnings", "unchecked", "unused", "cast"})
@@ -72,7 +70,7 @@ public class MyGrammaticParser extends Parser {
 	}
 
 	@Override
-	public String getGrammarFileName() { return "MyGrammatic.g4"; }
+	public String getGrammarFileName() { return "Mike/MyGrammatic.g4"; }
 
 	@Override
 	public String[] getRuleNames() { return ruleNames; }
